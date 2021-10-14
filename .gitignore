@@ -1,0 +1,5 @@
+auth*.json
+login*.py
+node_modules/*
+*.png
+*.log
